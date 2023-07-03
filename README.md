@@ -1,1 +1,1 @@
-# JavaScript_Patterns
+Different types of Javascript Patterns.
