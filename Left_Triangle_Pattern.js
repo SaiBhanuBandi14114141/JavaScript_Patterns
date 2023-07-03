@@ -3,7 +3,7 @@ const Left_Triangle_Pattern = (size) => {
 
   for (let i = 1; i <= size; i++) {
     for (let j = 1; j <= i; j++) {
-      pattern += "* ";
+      pattern += " *";
     }
     console.log(pattern);
     pattern = "";
