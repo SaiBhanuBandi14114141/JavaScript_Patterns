@@ -21,3 +21,20 @@ const Hallow_Equilateral_Triangle_Pattern = (size) => {
 };
 
 Hallow_Equilateral_Triangle_Pattern(10);
+
+/*
+
+Output:
+
+                  * 
+                *   * 
+              *       * 
+            *           * 
+          *               * 
+        *                   * 
+      *                       * 
+    *                           * 
+  *                               * 
+* * * * * * * * * * * * * * * * * * * 
+
+*/

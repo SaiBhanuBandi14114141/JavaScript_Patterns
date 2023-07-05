@@ -11,3 +11,20 @@ const Left_Triangle_Pattern = (size) => {
 };
 
 Left_Triangle_Pattern(10);
+
+/*
+
+Output:
+
+ *
+ * *
+ * * *
+ * * * *
+ * * * * *
+ * * * * * *
+ * * * * * * *
+ * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * * *
+
+*/

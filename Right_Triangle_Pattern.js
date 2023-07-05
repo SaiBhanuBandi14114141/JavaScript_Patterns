@@ -14,3 +14,20 @@ const Right_Triangle_Pattern = (size) => {
 };
 
 Right_Triangle_Pattern(10);
+
+/*
+
+Output:
+
+                  * 
+                * * 
+              * * * 
+            * * * * 
+          * * * * * 
+        * * * * * * 
+      * * * * * * * 
+    * * * * * * * * 
+  * * * * * * * * * 
+* * * * * * * * * * 
+
+*/

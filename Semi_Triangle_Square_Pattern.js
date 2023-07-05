@@ -14,3 +14,20 @@ const Semi_Triangle_Square_Pattern = (size) => {
 };
 
 Semi_Triangle_Square_Pattern(10);
+
+/*
+
+Output:
+
+* * * * * * * * * * 
+* * * * * * * *   * 
+* * * * * * *     * 
+* * * * * *       * 
+* * * * *         * 
+* * * *           * 
+* * *             * 
+* *               * 
+*                 * 
+* * * * * * * * * * 
+
+*/

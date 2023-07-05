@@ -12,3 +12,20 @@ const Hallow_Left_Triangle_Pattern = (size) => {
 };
 
 Hallow_Left_Triangle_Pattern(10);
+
+/*
+
+Output:
+
+ *
+ * *
+ *   *
+ *     *
+ *       *
+ *         *
+ *           *
+ *             *
+ *               *
+ * * * * * * * * * *
+
+*/

@@ -14,3 +14,20 @@ const Hallow_Right_Triangle_Pattern = (size) => {
 };
 
 Hallow_Right_Triangle_Pattern(10);
+
+/*
+
+Output:
+
+ *
+ * *
+ *   *
+ *     *
+ *       *
+ *         *
+ *           *
+ *             *
+ *               *
+ * * * * * * * * * *
+
+*/

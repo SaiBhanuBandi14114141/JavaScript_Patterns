@@ -13,3 +13,20 @@ const Equilateral_Triangle_Pattern = (size) => {
 };
 
 Equilateral_Triangle_Pattern(10);
+
+/*
+
+Output:
+
+          *
+         * *
+        * * *
+       * * * *
+      * * * * *
+     * * * * * *
+    * * * * * * *
+   * * * * * * * *
+  * * * * * * * * *
+ * * * * * * * * * *
+
+*/

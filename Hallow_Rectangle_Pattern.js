@@ -14,3 +14,20 @@ const Hollow_Rectangle_Pattern = (size) => {
 };
 
 Hollow_Rectangle_Pattern(10);
+
+/*
+
+Output:
+
+**********
+*        *
+*        *
+*        *
+*        *
+*        *
+*        *
+*        *
+*        *
+**********
+
+*/

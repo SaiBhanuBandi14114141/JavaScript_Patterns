@@ -11,3 +11,20 @@ const Downward_Triangle_Pattern = (size) => {
 };
 
 Downward_Triangle_Pattern(10);
+
+/*
+
+Output:
+
+* * * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * 
+* * * * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+*/

@@ -14,3 +14,20 @@ const Hollow_Square_Pattern = (size) => {
 };
 
 Hollow_Square_Pattern(10);
+
+/*
+
+Output:
+
+* * * * * * * * * * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+* * * * * * * * * * 
+
+*/
